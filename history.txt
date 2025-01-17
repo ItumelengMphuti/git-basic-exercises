@@ -1,0 +1,500 @@
+   53  cd onedrive
+   54  cd desktop
+   55  git clone https://github.com/ItumelengMphuti/se-assignment-1-setting-up-your-developer-environment-ItumelengMphuti.git
+   56  code .
+   57  cd se-assignment-1-setting-up-your-developer-environment-ItumelengMphuti
+   58  code .
+   59  cd onedrive
+   60  cd desktop
+   61  git clone https://github.com/ItumelengMphuti/se-assignment-5-ItumelengMphuti.git
+   62  cd se-assignment-5-ItumelengMphuti.git
+   63  Cloning into 'se-assignment-5-ItumelengMphuti'.
+   64  cd /se-assignment-5-ItumelengMphuti.git
+   65  cd onedrive
+   66  cd desktop
+   67  cd onedrive
+   68  cd desktop
+   69  cd se-assignment-5-ItumelengMphuti
+   70  code .
+   71  onedrive
+   72  cd onedrive
+   73  cd desktop
+   74  cd PLPAssignments/
+   75  git clone https://github.com/ItumelengMphuti/se-assignment-4-github-and-visual-studio-ItumelengMphuti.git
+   76  cd se-assignment-4-github-and-visual-studio-ItumelengMphuti
+   77  code .
+   78  cd PLPBasicGitAssignment
+   79  rm -rf .git
+   80  cd onedrive
+   81  cd desktop
+   82  cd onedrive
+   83  cd desktop
+   84  PLPAssignments/
+   85  cd PLPAssignments/
+   86  git clone https://github.com/ItumelengMphuti/se-assignment-8-pitching-a-software-project-ItumelengMphuti.git
+   87  cd se-assignment-8-pitching-a-software-project-ItumelengMphuti
+   88  code .
+   89  cd onedrive
+   90  cd desktop
+   91  git clone https://github.com/Powerlearnproject/week-1-html-setup-ItumelengMphuti.git
+   92  cd Powerlearnproject/week-1-web-development
+   93  cd week-1-html-setup-ItumelengMphuti/
+   94  code .
+   95  git add .
+   96  git commit -m "Answers to assignment"
+   97  git push 
+   98  git add .
+   99  git commit -m "Answers to assignment"
+  100  git push -u origin main
+  101  git add .
+  102  git commit -m "Answers to assignment"
+  103  git push -u origin main
+  104  git push -u origin main
+  105  cd onedrive
+  106  cd desktop
+  107  git clone https://github.com/Powerlearnproject/week-1-html-setup-ItumelengMphuti.git
+  108  code .
+  109  cd week-1-html-setup-ItumelengMphuti/
+  110  code .
+  111  git add .
+  112  git commit -m "Answers to assignment"
+  113  git push
+  114  cd onedrive
+  115  cd desktop
+  116  git clone https://github.com/ItumelengMphuti/may-2024-web-hackathon-1.git
+  117  cd may-2024-web-hackathon-1/
+  118  code .
+  119  git checkout -b ItumelengMphuti
+  120  code .
+  121  cd ..
+  122  cd portfolio/
+  123  code .
+  124  node -v
+  125  npm cache clean -f
+  126  npm install -g n
+  127  npm -v
+  128  node -v
+  129  npm install -g n
+  130  onrdrive
+  131  cd onedrive
+  132  cd desktop
+  133  cd portfolio/
+  134  code .
+  135  git add .
+  136  git commit -m "Added new code for portfolio"
+  137  git psh
+  138  git push
+  139  cd onedrive
+  140  cd desktop
+  141  echo "# Expense_Tracker" >> README.md
+  142  git init
+  143  git add README.md
+  144  git commit -m "first commit"
+  145  git branch -M main
+  146  git remote add origin https://github.com/ItumelengMphuti/Expense_Tracker.git
+  147  git push -u origin main
+  148  code .
+  149  rm -rf .git
+  150  mkdir Expense Tracker
+  151  cd Expense Tracker
+  152  mkdir Expense_Tracker
+  153  clear
+  154  mkdir "Expense Tracker"
+  155  cd onedrive
+  156  cd desktop
+  157  cd ExpenseTracker
+  158  echo "# Expense_Tracker" >> README.md
+  159  git init
+  160  git add README.md
+  161  git commit -m "first commit"
+  162  git branch -M main
+  163  git remote add origin https://github.com/ItumelengMphuti/Expense_Tracker.git
+  164  git push -u origin main
+  165  git pull origin main --rebase
+  166  git push -u origin main
+  167  code .
+  168  git add .
+  169  git push -u "Moved to new repo"
+  170  git push 
+  171  git commit -u "Moved to new repo"
+  172  clear
+  173  git add .
+  174  git commit -u "Moved to new repo"
+  175  git commit -m "Moved to new repo"
+  176  git push
+  177  cd OneDrive/
+  178  cd desktop
+  179  cd PLPAssignments/
+  180  cd Web\ Technologies/
+  181  git clone https://github.com/Powerlearnproject/week-3-javascript-intro-ItumelengMphuti.git
+  182  cd week-3-javascript-intro-ItumelengMphuti/
+  183  code .
+  184  cd ..
+  185  cd...
+  186  cd ...
+  187  cd ..
+  188   cd ..
+  189  git clone https://github.com/ItumelengMphuti/30-Days-Of-JavaScript.git
+  190  clear
+  191  git clone https://github.com/ItumelengMphuti/30-Days-Of-JavaScript.git
+  192  cd onedrive
+  193  cd desktop
+  194  cd Week4\ Nodejs/
+  195  code .
+  196  cd onedrive
+  197  cd desktop
+  198  cd Week4\ Nodejs/
+  199  code .
+  200  cd onedrive
+  201  cd desktop
+  202  git clone https://github.com/lugaye/may-2024-week-4-backend-development.git
+  203  cd week-4-backend-development.git
+  204  cd week-4-backend-development
+  205  cd may-2024-week-4-backend-development/
+  206  code .
+  207  cd ..
+  208  cd ..
+  209  cd desktop
+  210  cd Week-5-hands-On/
+  211  code .
+  212  cd ..
+  213  cd onedrive
+  214  cd desktop
+  215  cd PLPAssignments/
+  216  cd Web\ Technologies/
+  217  cd week-4-backend-development-ItumelengMphuti/
+  218  code .
+  219  cd onedrive
+  220  cd desktop
+  221  cd WebTech7/
+  222  code .
+  223  npm init -y
+  224  npm install express
+  225  clear
+  226  npm --save-dev jest supertest
+  227  npm install --save-dev jest supertest
+  228  clear
+  229  npm run start
+  230  npm run
+  231  npm start
+  232  npm run start
+  233  npm run start
+  234  npm run start
+  235  clear
+  236  npm run start
+  237  exit
+  238  cd onede=rive
+  239  cd onedrive
+  240  cd desktop
+  241  cd WebTech7/
+  242  code .
+  243  cd ..
+  244  mkdir WebTech4
+  245  cd WedTech4
+  246  cd onedrive
+  247  cd desktop
+  248  cd WebTech4
+  249  code .
+  250  cd .
+  251  node hello.js
+  252  npm install express
+  253  node index.js
+  254  exit
+  255  cd onedrive
+  256  cd desktop
+  257  cd PLPAssignments/
+  258  cd Web\ Technologies/
+  259  cd week-4-backend-development-ItumelengMphuti/
+  260  code .
+  261  git add .
+  262  git add .
+  263  clear
+  264  git add .
+  265  git commit "Assignement"
+  266  git commit -u "Assignement"
+  267  git commit -m "Assignment"
+  268  git push -u origin
+  269  cd api
+  270  node server.js
+  271  node server.js
+  272  node server.js
+  273  clear
+  274  node server.js
+  275  npm install
+  276  node server.js
+  277  node server.js
+  278  node server.js
+  279  exit
+  280  cd onedrive
+  281  cd desktop
+  282  cd PLPAssignments/
+  283  cd Web\ Technologies/
+  284  git clone https://github.com/Powerlearnproject/week-6-integration-of-frontend-and-backend-ItumelengMphuti.git
+  285  exit
+  286  cd onedrive
+  287  cd desktop
+  288  cd Python_Week/
+  289  code .
+  290  echo "# my_list" >> README.md
+  291  git init
+  292  git add README.md
+  293  git commit -m "first commit"
+  294  git branch -M main
+  295  git remote add origin https://github.com/ItumelengMphuti/my_list.git
+  296  git push -u origin main
+  297  cd ...
+  298  cd 
+  299  cd ..
+  300  cd onedrive
+  301  cd onedrive
+  302  cd desktop
+  303  mkdir ASC_Week4
+  304  cd ASC_Week4/
+  305  CODE .
+  306  pip install gevent
+  307  code .
+  308  exit
+  309  cd onedrive
+  310  cd desktop
+  311  cd file\ handling/
+  312  code .
+  313  cd onedrive
+  314  cd desktop
+  315  cd Specialization\ Project/
+  316  code .
+  317  echo "# InnoVestor" >> README.md
+  318  git init
+  319  git add README.md
+  320  git commit -m "first commit"
+  321  git branch -M main
+  322  git remote add origin https://github.com/ItumelengMphuti/InnoVestor.git
+  323  git push -u origin main
+  324  git add .
+  325  git commit -m "First Commit"
+  326  git push -u origin main
+  327  cd onedrive
+  328  cd desktop
+  329  cd UmuziTasks/
+  330  code .
+  331  git add .
+  332  git commit -m "Task7"
+  333  git push
+  334  cd onedrive
+  335  cd desktop
+  336  cd Specialization\ Project/
+  337  code .
+  338  cd src
+  339  npm install nodemon express bcrypt valodator jsonwebtoken cors body-parser dotenv mysql2
+  340  npm install nodemon express bcrypt validator jsonwebtoken cors body-parser dotenv mysql2
+  341  cd onedrive
+  342  cd desktop
+  343  cd UmuziTasks/
+  344  code .
+  345  cd onedrive
+  346  cd desktop
+  347  mkdir Umuzi
+  348  cd Umuzi
+  349  git clone https://github.com/Umuzi-org/Itumeleng-MPHUTI-219-level-1-programming-katas-javascript.git
+  350  code .
+  351  cd Itumeleng-MPHUTI-219-level-1-programming-katas-javascript/
+  352  code .
+  353  git checkout main
+  354  git pull
+  355  git checkout -b task/1
+  356  cd onedrive
+  357  cd desktop
+  358  cd umuzi
+  359  cd Itumeleng-MPHUTI-219-level-1-programming-katas-javascript/
+  360  git add .
+  361  git commit "Task 1 complete, awaiting evalu:
+  362  git commit "Task 1 complete, awaiting evalu"
+  363  git add .
+  364  git commit -m "Task 1 complete"
+  365  git push
+  366  git push origin task/1
+  367  cd onedrive
+  368  cd desktop
+  369  cd Specialization\ Project/
+  370  code .
+  371   node task4.js
+  372   node task4.js
+  373   node task4.js
+  374  git add .
+  375  git commit -m "Task 4 complete"
+  376  git push origin task/
+  377  4git push origin task/4
+  378  git push origin task/4
+  379  node task5.js
+  380  node task5.js
+  381  node task5.js
+  382  node task5.js
+  383  node task5.js
+  384  node task5.js
+  385  node task5.js
+  386  node task5.js
+  387  node task5.js
+  388  git add .
+  389  git  commit -m "Task 5 complete"
+  390  git push origin task/5
+  391  exit
+  392  cd onedrive
+  393  cd desktop
+  394  cd umuzi
+  395  cd Itumeleng-MPHUTI-219-level-1-programming-katas-javascript/
+  396  code .
+  397  git checkout main
+  398  git pull
+  399  git checkout -b task/4
+  400  git checkout main
+  401  git pull
+  402  git checkout -b task/5
+  403  onedrive
+  404  desktop
+  405  cd desktop
+  406  cd onedrive
+  407  cd desktop
+  408  cd umuzi
+  409  cd Itumeleng-MPHUTI-219-level-1-programming-katas-javascript/
+  410  code .
+  411  git pull
+  412  git checkout main
+  413  git pull
+  414  git checkout -b task/6
+  415  git checkout main
+  416  git pull
+  417  git checkout -b task/7
+  418  git checkout task/6
+  419  cd onedrive
+  420  cd desktop
+  421  git clone https://github.com/Umuzi-org/Itumeleng-MPHUTI-223-person-javascript.git
+  422  code .
+  423  cd Itumeleng-MPHUTI-223-person-javascript/
+  424  code .
+  425  code .
+  426  git add .
+  427  git commit -m "Person project complete"
+  428  git push
+  429  git push origin main
+  430  git pull 
+  431  git checkout -b person
+  432  clear
+  433  code .
+  434  node person.js
+  435  node person.js
+  436  git add .
+  437  git commit -m "Person Project complete"
+  438  git push origin person
+  439  cd onedrive
+  440  cd desktop
+  441  cd Specialization\ Project/
+  442  code .
+  443  cd onedrive
+  444  cd desktop
+  445  cd Specialization\ Project/
+  446  code .
+  447  cd desktop
+  448  cd onedrive
+  449  cd desktop
+  450  cd umuzi
+  451  cd UmuziPrep/
+  452  cd Aptitude/
+  453  node task7.js
+  454  node task7.js
+  455  node task7.js
+  456  node task7.js
+  457  git add .
+  458  git commit -m "Task7"
+  459  git push
+  460  mkdir task8.js
+  461  clear
+  462  task8,js
+  463  node task8.js
+  464  node task8.js
+  465  node task8.js
+  466  node task8.js
+  467  node task8.js
+  468  node task8.js
+  469  node task8.js
+  470  node task8.js
+  471  cd ..
+  472  git add .
+  473  git commit -m "Task8"
+  474  git push
+  475  mkdir Level1-challenge
+  476  cd Level1-challenge/
+  477  node task1.js
+  478  node task1.js
+  479  node task1.js
+  480  node task1.js
+  481  node task1.js
+  482  node task1.js
+  483  node task1.js
+  484  cd ..
+  485  git add .
+  486  git commit -m "Task 1, Level 1"
+  487  git push
+  488  exit
+  489  cd D:\week-8-deployment-ItumelengMphuti
+  490  code .
+  491  cd onedrive
+  492  cd desktop
+  493  cd Specialization\ Project/
+  494  cd onedrive
+  495  cd desktop
+  496  cd Specialization\ Project/
+  497  git add
+  498  git add .
+  499  git commit -m "Commit"
+  500  git push
+  501   cd omedrive
+  502  cd onedrive desktop
+  503  cd onedrive
+  504  cd desktop
+  505  mkdir git-basic-exercises
+  506  cd git-basic-exercises/
+  507  ls -a
+  508  git init
+  509  ls -s
+  510  ls -a
+  511  touch README.md
+  512  ls -a
+  513  git status
+  514  git log
+  515  git add .
+  516  git status
+  517  git reset README.md
+  518  git status
+  519  git add .
+  520  git commit -m "initial commit"
+  521  git log
+  522  nano README.md
+  523  cat README.md
+  524  git add .
+  525  git commit -m "second commit"
+  526  nano README.md
+  527  git add .
+  528  git commit -m "third commit"
+  529  git log
+  530  git checkout 871755896a383ad68d97c26296174829fbf05271
+  531  cat README.md
+  532  git checkout master
+  533  cat README.md
+  534  git branch
+  535  git branch milkshake-flavours
+  536  git branch
+  537  git branch milkshake-flavours 
+  538  git checkout milkshake-flavours
+  539  git branch
+  540  nano milkshake-flavours
+  541  git status
+  542  git add .
+  543  git commit "added initial flavours"
+  544  git commit -m "added initial flavours"
+  545  git log
+  546  git checkout master
+  547  git log
+  548  git branch history
+  549  git checkout history
+  550  git log
+  551  git branch
+  552  history > history.txt
